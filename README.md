@@ -14,8 +14,6 @@
 
 [![HitCount](http://hits.dwyl.com/snotani/snotani.svg)](http://hits.dwyl.com/snotani/snotani)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=snotani&repo=Fridgebuddy)](https://github.com/snotani/Fridgebuddy)
-
 <hr>
 <p align="center">
   <i>Connect with me and have a chat - I am quite friendly!</i>
