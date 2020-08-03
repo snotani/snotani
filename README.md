@@ -1,4 +1,6 @@
-### Hi there, I'm Siddharth - you can call me Sidd 👋
+## Hi there, I'm Siddharth - you can call me Sidd 👋
+
+### App Developer | Software Engineering | ML Developer | Blockchain Enthusiast
 
 ⚡ Fun fact - I'm fluent in 3 different languages: English, Spanish and Hindi!
 
