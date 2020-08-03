@@ -1,4 +1,4 @@
-## Hi there, I'm Siddharth - you can call me Sidd 👋
+### Hi there, I'm Siddharth - you can call me Sidd 👋
 
 ### App Developer | Software Engineering | ML Developer | Blockchain Enthusiast
 
