@@ -8,7 +8,7 @@
 
 🌱 Best at - React, React Native, Python, Java, Typescript and JS 
 
-🤔 I'm interested in - Cloud, ML and Blockchain!
+🤔 I'm interested in - AI, ML and Blockchain!
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=snotani&show_icons=true) 
 
