@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on - a range of projects in ML and Blockchain. Message me if interested!
 
-🌱 Best at - React, React Native, Python, Java, Typescript and JS 
+🌱 Best at - React, React Native, Python, Java, TS and JS 
 
 🤔 I'm interested in - AI, ML and Blockchain!
 
@@ -16,7 +16,7 @@
 
 <hr>
 <p align="center">
-  <i>Connect with me and have a chat - I am quite friendly!</i>
+  <i>Connect with me and have a chat!</i>
 
   <p align="center">
     <a href="https://twitter.com/siddsiddi" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
