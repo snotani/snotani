@@ -10,8 +10,6 @@
 
 🤔 I'm interested in - AI, ML and Blockchain!
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=snotani&show_icons=true) 
-
 [![HitCount](http://hits.dwyl.com/snotani/snotani.svg)](http://hits.dwyl.com/snotani/snotani)
 
 <hr>
