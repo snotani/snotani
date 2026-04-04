@@ -1,14 +1,14 @@
-### Hi there, I'm Siddharth - you can call me Sidd 👋
+### Hey, it's Sidd 👋
 
-### App Developer | Software Engineer | Blockchain Enthusiast
+### AI Engineer | Full Stack Engineer | Mobile App Developer
 
 ⚡ Fun fact - I'm fluent in 3 different languages: English, Spanish and Hindi!
 
-🔭 I’m currently working on - a range of projects in ML and Blockchain. Message me if interested!
+🔭 I’m currently working on - a range of Agentic projects. Message me if interested!
 
-🌱 Best at - React, React Native, Python, Java, TS and JS 
+🌱 Best at - Python, React, React Native, Java, TypeScript and JavaScript
 
-🤔 I'm interested in - AI, ML and Blockchain!
+🤔 I'm interested in - Building the future of AI!
 
 <hr>
 <p align="center">
