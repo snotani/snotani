@@ -11,9 +11,13 @@
 ### 🚀 Building
 
 * 🎨 **[Creation Hub](https://github.com/snotani/creation-hub)** - AI-powered animated diagram generator with multi-source asset search across photos, videos and GIFs
+
 * 🏋️ **[Plates](https://github.com/snotani/plates-macros-workout-tracker)** - Mobile-first macros & workout tracker PWA with AI suggestion
+
 * 🎬 **[Autoprod Studio](https://github.com/snotani/autoprod-studio)** - Agentic pipeline that automates the full content production workflow
+
 * 🤖 **[Agent OS](https://github.com/snotani/Agent-OS-OneBalance)** - AI workflow copilot that ingests Linear & GitHub context, drafts & human-in-the-loop
+
 
 <hr>
 <p align="center">
