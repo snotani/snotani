@@ -29,4 +29,4 @@
     <a href="https://snotani.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
   
-[![HitCount](http://hits.dwyl.com/snotani/snotani.svg)](http://hits.dwyl.com/snotani/snotani)
+[![Sidd Notani profile views](https://u8views.com/api/v1/github/profiles/36894543/views/day-week-month-total-count.svg)](https://u8views.com/github/snotani)
