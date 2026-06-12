@@ -18,6 +18,7 @@
 
 * 🤖 **[Agent OS](https://github.com/snotani/Agent-OS-OneBalance)** - AI workflow copilot that ingests Linear & GitHub context, drafts & human-in-the-loop
 
+* 🤖 **[AI Training Hub](https://github.com/snotani/ai-training-platform)** - One interactive path from how models actually work to designing, evaluating, and shipping production-ready AI systems and autonomous agents.
 
 <hr>
 <p align="center">
