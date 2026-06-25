@@ -20,6 +20,8 @@
 
 * 👨🏽‍🏫 **[AI Training Hub](https://github.com/snotani/ai-training-platform)** - Teaching how models actually work to designing, evaluating, and shipping production-ready AI systems and autonomous agents.
 
+* 🏆 **[World Cup AI Agent](https://github.com/snotani/worldcup-oracle)** - An explainable AI agent that predicts FIFA World Cup 2026 matches.
+
 <hr>
 <p align="center">
   <i>Connect with me and have a chat!</i>
